@@ -12,6 +12,4 @@ Desktop preview :
 
 Mobile preview :
 
-<img width="211" alt="website homepage mobile view" src="https://user-images.githubusercontent.com/90324172/144702394-4bd93134-57ec-4a2e-8b26-af9e3d046ad5.png">
-<img width="211" alt="website homepage mobile view3" src="https://user-images.githubusercontent.com/90324172/144702530-d581e7b1-3771-4c64-82a9-f06ffbce54e9.png">
-<img width="207" alt="website homepage mobile view2" src="https://user-images.githubusercontent.com/90324172/144702534-2c9c662d-7cb7-46c5-ab82-a2ac03740a84.png">
+<img width="211" alt="website homepage mobile view" src="https://user-images.githubusercontent.com/90324172/144702394-4bd93134-57ec-4a2e-8b26-af9e3d046ad5.png"><img width="211" alt="website homepage mobile view3" src="https://user-images.githubusercontent.com/90324172/144702530-d581e7b1-3771-4c64-82a9-f06ffbce54e9.png"><img width="207" alt="website homepage mobile view2" src="https://user-images.githubusercontent.com/90324172/144702534-2c9c662d-7cb7-46c5-ab82-a2ac03740a84.png">
