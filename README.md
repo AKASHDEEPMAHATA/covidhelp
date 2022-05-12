@@ -1,6 +1,6 @@
 # covidhelp website
  
- Description : This website help the peoples on this pandemic time by providing correct information. This website mainly based on India. Information provided in this website are safe and all information details collected from Government portal .
+ Description : This website helps the people during this pandemic time by providing correct information. This website is mainly based in India. Information provided on this website is safe and all information details collected from Government portal .
  
  Live demo link : https://akashdeepmahata.github.io/covidhelp/
 
